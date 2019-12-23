@@ -1,6 +1,6 @@
 ---
 title: "The OSI model"
-layout: page
+layout: default
 category: basics
 order: 1
 ---

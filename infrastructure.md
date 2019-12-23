@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Infrastructure
+order: 13
 ---
 
 This section covers infrastructure services, mostly in the context of Cisco IOS and NX-OS. It also tangentially covers infrastructure security in terms of some best practices when setting up network devices.

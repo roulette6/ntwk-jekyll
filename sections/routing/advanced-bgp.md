@@ -1,6 +1,6 @@
 ---
 title: "Advanced BGP concepts"
-layout: page
+layout: default
 category: routing
 order: 30
 ---

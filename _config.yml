@@ -18,32 +18,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Route Switch
+title: Route Switch Network
+tagline: Learn about routing and switching
 email: admin@routeswitch.network
-description: >- # this means to ignore newlines until "baseurl:"
-  Learn about routing and switching
+description: Learn about routing and switching
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://routeswitch.network" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: roulette6
-github_username:  roulette6
 
-# Build settings
-theme: jekyll-athena
-
-plugins:
-  - jekyll-feed
-
-menu:
-  - url: /
-    name: main
-  - url: /basics
-    name: basics
-  - url: /switching
-    name: switching
-  - url: /routing
-    name: routing
-  - url: /f5
-    name: F5
+# About/contact
+author:
+  name:              Josue Martinez
+  url:               http://jnmartinez.com
+  email:             admin@routeswitch.network
 
 # Exclude from processing.
 # The following items will not be processed, by default.

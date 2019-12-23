@@ -1,6 +1,6 @@
 ---
 title: "DRAFT - VLANs"
-layout: page
+layout: default
 category: switching
 order: 1
 draft: true

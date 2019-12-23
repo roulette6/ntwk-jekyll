@@ -1,6 +1,6 @@
 ---
 title: "Infrastructure Security"
-layout: page
+layout: default
 category: infrastructure
 order: 15
 ---

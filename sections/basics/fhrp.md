@@ -1,6 +1,6 @@
 ---
 title: "First Hop Redundancy Protocols (FHRP)"
-layout: page
+layout: default
 category: basics
 order: 7
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Dynamic Host Configuration Protocol (DHCP)"
-layout: page
+layout: default
 category: infrastructure
 order: 1
 ---

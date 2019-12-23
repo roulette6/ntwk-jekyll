@@ -1,6 +1,6 @@
 ---
 title: "DRAFT - Spanning Tree Protocol (STP)"
-layout: page
+layout: default
 category: switching
 order: 5
 draft: true

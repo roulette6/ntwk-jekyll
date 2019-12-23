@@ -1,6 +1,6 @@
 ---
 title: "IPv6"
-layout: page
+layout: default
 category: basics
 order: 8
 ---

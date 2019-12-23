@@ -1,6 +1,6 @@
 ---
 title: "Static routing"
-layout: page
+layout: default
 category: routing
 order: 5
 ---

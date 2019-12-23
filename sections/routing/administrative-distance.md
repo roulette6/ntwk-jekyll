@@ -1,6 +1,6 @@
 ---
 title: "Administrative distance"
-layout: page
+layout: default
 category: routing
 order: 1
 ---

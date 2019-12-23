@@ -1,6 +1,6 @@
 ---
 title: "DRAFT - Switchport configs"
-layout: page
+layout: default
 category: switching
 order: 10
 draft: true

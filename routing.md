@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Routing
+order: 10
 ---
 
 On OSI layer 2, devices communicate with one another via their MAC address when they are in the same layer 3 network (same network ID and subnet mask). When devices in different subnets need to communicate, they require the help of routers to reach each other. This starts with their default gateway (i.e., router), which is on the same subnet and presumably knows how to get packets to the network the device is trying to reach.

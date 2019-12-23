@@ -1,6 +1,6 @@
 ---
 title: "DRAFT - Switching Security"
-layout: page
+layout: default
 category: switching
 order: 25
 draft: true

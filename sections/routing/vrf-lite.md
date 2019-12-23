@@ -1,6 +1,6 @@
 ---
 title: "VRF lite"
-layout: page
+layout: default
 category: routing
 order: 40
 ---

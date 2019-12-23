@@ -1,6 +1,6 @@
 ---
 title: "DRAFT - Network management"
-layout: page
+layout: default
 category: infrastructure
 order: 5
 ---

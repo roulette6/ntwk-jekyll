@@ -1,6 +1,6 @@
 ---
 title: "GRE"
-layout: page
+layout: default
 category: routing
 order: 35
 ---

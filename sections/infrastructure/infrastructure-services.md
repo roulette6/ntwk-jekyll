@@ -1,6 +1,6 @@
 ---
 title: "Infrastructure Services"
-layout: page
+layout: default
 category: infrastructure
 order: 10
 ---

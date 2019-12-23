@@ -1,6 +1,6 @@
 ---
 title: "IP addresses"
-layout: page
+layout: default
 category: basics
 order: 3
 ---

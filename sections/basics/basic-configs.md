@@ -1,6 +1,6 @@
 ---
 title: "Basic configs"
-layout: page
+layout: default
 category: basics
 order: 9
 ---

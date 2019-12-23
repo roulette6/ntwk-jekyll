@@ -1,6 +1,6 @@
 ---
 title: "Access Control Lists"
-layout: page
+layout: default
 category: basics
 order: 6
 ---

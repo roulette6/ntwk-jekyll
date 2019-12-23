@@ -1,6 +1,6 @@
 ---
 title: "EIGRP"
-layout: page
+layout: default
 category: routing
 order: 15
 ---

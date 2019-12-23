@@ -1,6 +1,6 @@
 ---
 title: "Subnetting"
-layout: page
+layout: default
 category: basics
 order: 4
 ---

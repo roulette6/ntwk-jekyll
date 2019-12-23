@@ -1,8 +1,7 @@
 ---
-title: "Regex"
-layout: page
+title: "DRAFT - Regex"
+layout: default
 category: f5
 order: 1
-draft: true
 ---
 

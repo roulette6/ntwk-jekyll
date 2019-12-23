@@ -1,6 +1,6 @@
 ---
 title: "OSPF"
-layout: page
+layout: default
 category: routing
 order: 20
 ---

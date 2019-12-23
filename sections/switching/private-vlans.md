@@ -1,6 +1,6 @@
 ---
 title: "DRAFT - Private VLANs"
-layout: page
+layout: default
 category: switching
 order: 20
 draft: true

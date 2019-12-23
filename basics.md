@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Basics
+order: 1
 ---
 
 This section goes over the basics of networking so the routing and switching sections will make sense. Starting with the OSI model is a good first step before learning about Ethernet (OSI layer 2) and IP (OSI layer 3).

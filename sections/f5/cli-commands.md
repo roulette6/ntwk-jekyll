@@ -1,6 +1,6 @@
 ---
 title: "CLI commands"
-layout: page
+layout: default
 category: f5
 order: 1
 ---

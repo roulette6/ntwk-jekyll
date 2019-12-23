@@ -1,6 +1,6 @@
 ---
 title: "NAT"
-layout: page
+layout: default
 category: asa
 order: 1
 ---

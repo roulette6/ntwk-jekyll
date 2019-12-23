@@ -1,6 +1,6 @@
 ---
 title: "BGP introduction"
-layout: page
+layout: default
 category: routing
 order: 25
 ---

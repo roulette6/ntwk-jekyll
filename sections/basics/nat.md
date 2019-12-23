@@ -1,6 +1,6 @@
 ---
 title: "NAT"
-layout: page
+layout: default
 category: basics
 order: 5
 ---

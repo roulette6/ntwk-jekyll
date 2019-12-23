@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Switching
+order: 5
 ---
 
 This section goes over the basics of a switched network. All pages in this section are under construction. As the pages are finalized, the word "draft" will be removed from their title.
