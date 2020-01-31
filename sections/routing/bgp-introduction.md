@@ -90,7 +90,7 @@ Do this if you want to advertise a larger prefix than what is in the routing tab
 2. Tell BGP on each router to use the loopback IP address as the source
 3. Configure the BGP neighbor command on each router to refer to the other router's loopback IP address
 4. Make sure each router has routes to the neighbor's loopback interface
-5. Configure eBGP multihop
+5. Configure eBGP multihop if several hops away, or disable whether a neighbor one hops away is known via a connected route.
 
 __Configuration__
     
@@ -99,6 +99,10 @@ __Configuration__
       neighbor 100.1.1.2 update-source loopback 1
       neighbor <neighbor's loopback ip addr> remote-as <asn>
       neighbor <neighbor ip addr> ebgp-multihop <hops>
+      !
+      !-- or
+      !
+      neighbor <nghbor ip> disable-connected-check
 
 
 ## Verification and troubleshooting commands
